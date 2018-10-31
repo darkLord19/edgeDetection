@@ -93,7 +93,7 @@ int main ( int argc , char ** argv ) {
 	unsigned char * h_pixels = NULL ;
 	unsigned char * d_pixels = NULL ;
 
-	char * srcPath = "d_out.pgm";
+	char * srcPath = "original.pgm";
 	char * h_ResultPath = "h_out_edge.pgm";
 	char * d_ResultPath = "d_out_edge.pgm";
 
